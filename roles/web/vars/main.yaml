@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.tmcdevops.online
+USER_HOST: user.tmcdevops.online
+SHIPPING_HOST: shipping.tmcdevops.online
+CART_HOST: cart.tmcdevops.online
+PAYMENT_HOST: payment.tmcdevops.online
